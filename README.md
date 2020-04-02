@@ -4,7 +4,7 @@ This project was developed during a Master Degree in UFPI (Universidade Federal 
 
 Was developed a parallel algorithm as an alternative to the Newton Secant Method.
 
-To parallelize the code was use OpenMP.
+To parallelize the code was used OpenMP.
 
 The original algorithm is based on the paper below.
 
