@@ -1,4 +1,4 @@
-# newthon_secant_algorithm
+# newton_secant_algorithm
 
 This project was developed during a Master Degree in UFPI (Universidade Federal do Piaui).
 
